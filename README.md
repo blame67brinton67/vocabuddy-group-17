@@ -10,7 +10,9 @@ brinton, huangallen, blameazu:嘴砲
 devin:寫code
 
 ## 本次新增的單字與功能
+apple, banana, cat
 
 ## google colab 開啟連結
+https://colab.research.google.com/github/blame67brinton67/vocabuddy-group-17/blob/main/VocaBuddy.ipynb
 
 ## 程式執行方式
