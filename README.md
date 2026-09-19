@@ -16,3 +16,5 @@ apple, banana, cat
 https://colab.research.google.com/github/blame67brinton67/vocabuddy-group-17/blob/main/VocaBuddy.ipynb
 
 ## 程式執行方式
+add the word in vocabularies.json
+run `python3 voc.py` in terminal
